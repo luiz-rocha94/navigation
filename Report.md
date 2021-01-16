@@ -11,8 +11,8 @@ The batch_size and update_every values as seted considering enverinmont time ste
 The epsilon_decay value as seted considereng start_epsilon and end_epsilon where the epsilon decrease in each episode, 
 this define more learning action and less random action along the episodes.
 
-this graph bellow show average score for episode.
-![plot image](plot.png)
+this graph show average score for episode.
 
+![plot image](plot.png)
 
 For future i wound like to use generic algoritms for test the hyperparameters.
